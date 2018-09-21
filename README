@@ -1,0 +1,1 @@
+This is a python script which chooses a random cat out of a group of 3,  use's the os library to scan pictures, and finally chooses a picture and moves it to another directory called "cat".
